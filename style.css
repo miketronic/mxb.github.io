@@ -53,8 +53,8 @@ div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7
 		  position:absolute;}
 
 div#text1 {font-size:60px;
-		top:-20px;
-		left:-120px;}
+		top:0px;
+		left:0px;}
 		
 div#text2 {font-size:60px;
 		top:40px;
