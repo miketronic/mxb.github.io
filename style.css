@@ -53,20 +53,20 @@ div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7
 		  position:absolute;}
 
 div#text1 {font-size:60px;
-		top:-120px;
+		top:-210px;
 		left:0px;}
 		
 div#text2 {font-size:60px;
-		top:-60px;
+		top:-1400px;
 		left:0px;}
 		
 div#text3 {font-size:60px;
-		top:0px;
+		top:-70px;
 		left:0px;}
 		
 div#text4 {font-size:60px;
-		top:210px;
-		left:-80px;}
+		top:0px;
+		left:0px;}
 		
 div#text5 {font-size:60px;
 		top:210px;
